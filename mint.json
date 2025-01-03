@@ -30,7 +30,7 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "spiceupintro"
+        "spiceupintro",
         "quickstartguide",
       ]
     },
