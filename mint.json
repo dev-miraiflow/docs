@@ -25,19 +25,13 @@
     "name": "Mirai Flow",
     "url": "https://miraiflow.tech"
   },
-  "tabs": [
-    {
-      "name": "SpiceUP",
-      "url": "https://miraiflow.mintlify.app/spiceup_intro"
-    }
-  ],
   "navigation": [
     {
       "group": "Get Started",
       "pages": [
         "introduction",
-        "spiceup_intro"
-        "quickstart_guide",
+        "spiceupintro"
+        "quickstartguide",
       ]
     },
     {
