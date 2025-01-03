@@ -36,8 +36,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart_guide",
         "spiceup_intro"
+        "quickstart_guide",
       ]
     },
     {
