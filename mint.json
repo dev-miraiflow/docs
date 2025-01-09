@@ -37,12 +37,15 @@
     {
       "group": "Page Wise Functionality",
       "pages": [
-        "essentials/mydashboard",
-        "essentials/assessmentinfo",
-        "essentials/definetargetprofile",
-        "essentials/assessmentplanning",
-        "essentials/uploadworkproducts",
-        "essentials/performassessment"
+        "pagewisefunctionality/mydashboard",
+        "pagewisefunctionality/assessmentinfo",
+        "pagewisefunctionality/definetargetprofile",
+        "pagewisefunctionality/assessmentplanning",
+        "pagewisefunctionality/uploadworkproducts",
+        "pagewisefunctionality/performassessment",
+        "pagewisefunctionality/viewresults",
+        "pagewisefunctionality/generatereport"
+        
       ]
     }
   ],
